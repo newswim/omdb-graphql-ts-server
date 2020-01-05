@@ -1,0 +1,25 @@
+{
+  "name": "omdb-graphql-ts-server",
+  "version": "0.0.1",
+  "description": "A GraphQL wrapper around OMDB, written in TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/omdb-graphql-ts-server.git"
+  },
+  "keywords": [
+    "omdb",
+    "graphql",
+    "typescript",
+    "fp-ts"
+  ],
+  "author": "Dan Minshew (@newswim)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/omdb-graphql-ts-server/issues"
+  },
+  "homepage": "https://github.com/newswim/omdb-graphql-ts-server#readme"
+}
