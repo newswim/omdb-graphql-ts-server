@@ -9,6 +9,10 @@
 - https://github.com/prisma/lift
 - [nexus](https://github.com/prisma-labs/nexus)
 - [Apollo GraphQL Test Example with Jest](https://gist.github.com/nzaghini/e038ff05c60bc2c5435f8331f890cea4)
+- https://graphql-code-generator.com
+- https://nexus.js.org/converter
+- https://github.com/yarax/swagger-to-graphql
+-
 
 ### Why Nexus?
 

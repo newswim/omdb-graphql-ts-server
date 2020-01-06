@@ -1,0 +1,21 @@
+scalar JSON
+
+type Query {
+  getTitle(
+    t: String!
+    y: Int
+    type: String
+    plot: String
+    r: String
+    callback: String
+  ): JSON!
+  getId(i: String!, plot: String, r: String, callback: String): JSON!
+  titleSearch(
+    s: String!
+    y: Int
+    type: String
+    r: String
+    page: Int
+    callback: String
+  ): JSON!
+}
