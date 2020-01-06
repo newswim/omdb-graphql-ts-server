@@ -21,5 +21,21 @@
   "bugs": {
     "url": "https://github.com/newswim/omdb-graphql-ts-server/issues"
   },
-  "homepage": "https://github.com/newswim/omdb-graphql-ts-server#readme"
+  "homepage": "https://github.com/newswim/omdb-graphql-ts-server#readme",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.15",
+    "graphql": "^14.5.8",
+    "nexus": "^0.12.0-rc.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "@types/node": "^13.1.4",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.8.0-dev.20200104"
+  }
 }
